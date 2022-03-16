@@ -6,7 +6,7 @@
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
 ## Projeto em Desenvolvimento para Desktop - Assistência Técnica de Informática DDR21 .<br>
-# Sistema de CRUD integrado com o bando de dados Mysql
+# Sistema desenvolvido pelo NetBeans com CRUD integrado com o bando de dados Mysql
 # Tela de Login de acesso com cadastro de usuário, Cliente, Formulário, Ordem de serviço.
 
 
