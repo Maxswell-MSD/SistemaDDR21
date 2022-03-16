@@ -5,7 +5,10 @@
 -👨‍🎓 Assuntos de estudos atualmente - Projeto Integrador 03/2022<br>
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
-## Projeto Desenvolvimento para Desktop - Assistência Técnica de Informática.
+## Projeto em Desenvolvimento para Desktop - Assistência Técnica de Informática DDR21 .<br>
+# Sistema de CRUD integrado com o bando de dados Mysql
+# Cadastro de usuário, Cliente, Formulário, Ordem de serviço.
+
 
 ## Ferramentas usadas no meu Dia a Dia
 
